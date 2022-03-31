@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'ArgestaDisplay-Regular';
+    src: url("./font/argesta/ArgestaDisplay-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ArgestaDisplay-RegularItalic';
+    src: url("./font/argesta/ArgestaDisplay-RegularItalic.otf") format("opentype");
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'ArgestaHairline-Regular';
+    src: url("./font/argesta/ArgestaHairline-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ArgestaHairline-RegularItalic';
+    src: url("./font/argesta/ArgestaHairline-RegularItalic.otf") format("opentype");
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'ArgestaHeadline-Regular';
+    src: url("./font/argesta/ArgestaHeadline-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ArgestaHeadline-RegularItalic';
+    src: url("./font/argesta/ArgestaHeadline-RegularItalic.otf") format("opentype");
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'ArgestaText-Bold';
+    src: url("./font/argesta/ArgestaText-Bold.otf") format("opentype");
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ArgestaText-Regular';
+    src: url("./font/argesta/ArgestaText-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ArgestaText-RegularItalic';
+    src: url("./font/argesta/ArgestaText-RegularItalic.otf") format("opentype");
+    font-weight: normal;
+    font-style: italic;
+}

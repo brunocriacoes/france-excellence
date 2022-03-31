@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'SimplonMono-Bold';
+    src: url("./font/simplon/SimplonMono-Bold.otf") format("opentype");
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SimplonMono-BoldItalic';
+    src: url("./font/simplon/SimplonMono-BoldItalic.otf") format("opentype");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'SimplonMono-Light';
+    src: url("./font/simplon/SimplonMono-Light.otf") format("opentype");
+    font-weight: lighter;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SimplonMono-LightItalic';
+    src: url("./font/simplon/SimplonMono-LightItalic.otf") format("opentype");
+    font-weight: lighter;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'SimplonMono-Medium';
+    src: url("./font/simplon/SimplonMono-Medium.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SimplonMono-MediumItalic';
+    src: url("./font/simplon/SimplonMono-MediumItalic.otf") format("opentype");
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'SimplonMono-Regular';
+    src: url("./font/simplon/SimplonMono-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SimplonMono-RegularItalic';
+    src: url("./font/simplon/SimplonMono-RegularItalic.otf") format("opentype");
+    font-weight: normal;
+    font-style: italic;
+}
